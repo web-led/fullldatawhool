@@ -88,7 +88,7 @@ gameOn.addEventListener("click", () => {
     } else if (clickCount == 3) {
         finalValue.innerHTML = `
         <img src='${displayRandomImage()}' style="width:235px; height:235px; margin-top: 3%;" alt="" id="photo">
-        <button style='background:#000;'> <a href=''>مبروك كسبت معانا</a></button>
+        <button style='background:#000;'> <a href='facebook.com'>مبروك كسبت معانا</a></button>
 
         `;
     }
